@@ -1,5 +1,3 @@
-# My CV
-
 ## Anatoliy Belobrovik
 
 ### Contact Info
